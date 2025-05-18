@@ -214,6 +214,13 @@ body {
     color: burlywood;
 }
 
+.percentage {
+    transition: .5s ease;
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: calc(.1s * var(--i));
+}
+
 #scrpt-line1 {
     margin-bottom: 5px;
     margin-left: 170px;

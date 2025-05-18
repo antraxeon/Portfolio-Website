@@ -186,13 +186,13 @@ body {
 
 .contact-span{
     color: burlywood;
-    margin-left: 15px;
+    margin-left: 10px;
 
 }
 
 .contact-scrpt{
     color: burlywood;
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 .contact-form{
@@ -499,6 +499,10 @@ button:hover {
     font-size: 19px;
     margin-left: 80.5px;
     margin-top: 20px;
+  }
+
+  .contact-script span {
+    margin-left: 7.5px;
   }
 
   .contact-script p {
